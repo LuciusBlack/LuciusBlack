@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuciusBlack
-- 👀 I’m interested in Javascript, Python, Coding in general. Beginner.
+- 👀 I’m interested in Javascript, Python, C++. Beginner.
 - 🌱 I’m currently learning Javascript!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord lucius#8204, 
